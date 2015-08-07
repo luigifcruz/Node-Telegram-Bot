@@ -1,0 +1,22 @@
+{
+  "name": "NodeJS-Telegram-Bot",
+  "version": "0.0.1",
+  "engine": "node 0.4.1",
+  "description": "NodeJS-Telegram-Bot",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luigifreitas/NodeJS-Telegram-Bot.git"
+  },
+  "author": "Luigi Freitas <luigifcruz@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luigifreitas/NodeJS-Telegram-Bot/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "request": "^2.58.0"
+  },
+  "homepage": "https://github.com/luigifreitas/NodeJS-Telegram-Bot"
+}
